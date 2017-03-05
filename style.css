@@ -6,9 +6,6 @@
 body {
    background-color: cornsilk;
 }
-ul {
-   padding: 30px;
-}
 p {
    font-family: arial;
 }
@@ -17,7 +14,14 @@ h1 {
    color: Crimson;
    font-size: 80px;
 }
-.profile {
+h2 {
+   font-family: "Arial Black"
+}   
+
+ul {
+   padding: 30px;
+}
+ .profile {
    font-style: italic;
 }
 .personal {
