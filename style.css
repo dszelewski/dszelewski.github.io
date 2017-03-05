@@ -18,7 +18,8 @@ h1 {
 }
 h2 {
    font-family: "Arial Black";
-   padding-left: 100px;    
+   padding-left: 100px;
+   padding-top: 30px;
 }   
 
 ul {
@@ -37,6 +38,7 @@ ul {
 }
 .kane {
    font-weight: bold;
+   padding-top: 30px;
 }
 .twin {
    font-weight: bold;
