@@ -1,6 +1,7 @@
 body {
    background-color: cornsilk;
-   border: 3px groove black; 
+   border: 3px groove black;
+   border-radius: 10px;
 }
 p {
    font-family: arial;
