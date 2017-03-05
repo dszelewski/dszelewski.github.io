@@ -24,6 +24,7 @@ ul {
  .profile {
    font-style: italic;
    font-size: 25px;
+   width: 1000px;
 }
 .personal {
    width: 400px;
