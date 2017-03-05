@@ -8,6 +8,7 @@ body {
 }
 ul {
    padding: 50px;
+   margin: auto;
 }
 p {
    font-family: arial;
