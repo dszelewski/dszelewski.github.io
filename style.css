@@ -1,8 +1,6 @@
-* {
-   border: 1px solid rgba(0, 0, 0, 0.3);
-}
 body {
    background-color: cornsilk;
+   border: 3px groove black; 
 }
 p {
    font-family: arial;
@@ -16,7 +14,7 @@ h1 {
    font-style: italic;
 }
 .personal {
-   text-align: left;
+   
 }
 .kane {
    font-weight: bold;
