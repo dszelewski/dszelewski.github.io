@@ -13,9 +13,11 @@ h1 {
    font-family: Impact;
    color: Crimson;
    font-size: 80px;
+   padding-left: 100px;
 }
 h2 {
-   font-family: "Arial Black"
+   font-family: "Arial Black";
+   padding-left: 100px;    
 }   
 
 ul {
