@@ -1,7 +1,8 @@
+* {
+   border: 1px solid rgba(0, 0, 0, 0.3);
+}
 body {
    background-color: cornsilk;
-   border: 3px groove black;
-   border-radius: 10px;
 }
 p {
    font-family: arial;
