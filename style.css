@@ -21,6 +21,7 @@ h2 {
    font-family: "Arial Black";
    padding-left: 100px;
    padding-top: 25px;
+   font-size: 25px;
 }   
 
 ul {
@@ -42,43 +43,56 @@ ul {
 .kane {
    font-weight: bold;
    padding-top: 25px;
+   font-size: 20px;
 }
 .twin {
    font-weight: bold;
+   font-size: 20px;
 }
 .jb {
    font-weight: bold;
+   font-size: 20px;
 }
 .melton {
    font-weight: bold;
+   font-size: 20px;
 }
 .england {
    font-weight: bold;
+   font-size: 20px;
 }
 .cci {
    font-weight: bold;
+   font-size: 20px;
 }
 .afni {
    font-weight: bold;
+   font-size: 20px;
 }
 .walmart {
    font-weight: bold;
+   font-size: 20px;
 }
 .mcdonalds {
    font-weight: bold;
+   font-size: 20px;
 }
 h3 {
    font-family: "Arial Black";
    padding-left: 100px;
+   font-size: 25px;
 }
 .pima {
    font-weight: bold;
    padding-top: 25px;
+   font-size: 20px;
 }
 .sahuarita {
    font-weight: bold;
    padding-top: 25px;
+   font-size: 20px;
 }
 .park {
    font-weight: bold;
+   font-size: 20px;
 }
