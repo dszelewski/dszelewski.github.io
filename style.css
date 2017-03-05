@@ -73,6 +73,7 @@ h3 {
 }
 .pima {
    font-weight: bold;
+   padding-top: 25px;
 }
 .sahuarita {
    font-weight: bold;
@@ -80,5 +81,4 @@ h3 {
 }
 .park {
    font-weight: bold;
-   padding-top: 25px;
 }
