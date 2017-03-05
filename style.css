@@ -1,6 +1,9 @@
 body {
    background-color: cornsilk;
 }
+p {
+   font-family: arial;
+}
 h1 {
    font-family: Impact;
    color: Crimson;
