@@ -3,6 +3,9 @@ h1 {
    color: Crimson;
    font-size: 80px;
 }
+.personal {
+   text-align: left;
+}
 .kane {
    font-weight: bold;
 }
