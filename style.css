@@ -13,8 +13,8 @@ body {
 }
 
 @font-face {
-   font-family: Catamaran, Ranga;
-   src: url(https://fonts.googleapis.com/css?family=Catamaran|Ranga)
+   font-family: Catamaran;
+   src: url("https://fonts.googleapis.com/css?family=Catamaran|Ranga")
 }
 
 p {
