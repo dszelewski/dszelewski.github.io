@@ -12,11 +12,6 @@ body {
    background-blend-mode: luminosity;
 }
 
-@font-face {
-   font-family: roboto;
-   src: url("https://fonts.googleapis.com/css?family=roboto")
-}
-
 p {
    font-family: arial;
    padding-left: 100px;
@@ -38,14 +33,15 @@ ul {
    padding-top: 5px;
    padding-left: 125px;
    padding-bottom: 30px;
-   font-family: 'roboto';
+   font-family: Verdana;
 }
  .profile {
-   font-family: 'Ranga', cursive;
+   font-family: Tahoma;
    font-size: 25px;
    width: 900px;
    padding-left: 200px;
    padding-top: 25px;
+   font-style: italic;
 }
 .personal {
    width: 425px;
