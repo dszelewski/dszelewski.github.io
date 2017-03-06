@@ -13,8 +13,8 @@ body {
 }
 
 @font-face {
-   font-family: Catamaran;
-   src: url("https://fonts.googleapis.com/css?family=Catamaran|Ranga")
+   font-family: roboto;
+   src: url("https://fonts.googleapis.com/css?family=roboto")
 }
 
 p {
@@ -38,7 +38,7 @@ ul {
    padding-top: 5px;
    padding-left: 125px;
    padding-bottom: 30px;
-   font-family: 'Catamaran';
+   font-family: 'roboto';
 }
  .profile {
    font-family: 'Ranga', cursive;
