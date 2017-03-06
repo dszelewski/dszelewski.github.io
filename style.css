@@ -11,6 +11,12 @@ body {
    background-color: rgba(0, 0, 0, 0.5);
    background-blend-mode: luminosity;
 }
+
+@font-face {
+   font-family: Catamaran, Ranga;
+   src: url(https://fonts.googleapis.com/css?family=Catamaran|Ranga)
+}
+
 p {
    font-family: arial;
    padding-left: 100px;
